@@ -14,4 +14,5 @@ HTML5: For structuring the content and layout of the website.
 CSS3: For styling the website and making it visually attractive.
 Bootstrap 4/5: Used for responsive design, grid system, and prebuilt components like navigation bars, modals, cards, etc.
 
-screencapture-127-0-0-1-8080-2024-09-27-00_52_09.png
+![image alt](https://github.com/ArunkumarBolli/Restaurant-Website/blob/997eeb65183c4640de5baefa8847a7a93800e896/screencapture-127-0-0-1-8080-2024-09-27-00_52_09.png)
+
